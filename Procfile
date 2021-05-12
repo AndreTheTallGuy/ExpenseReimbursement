@@ -1,1 +1,1 @@
-web: java -jar target/myapp-1.0.0.jar
+web: java -war target/Project_1.war
